@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\gabri\OneDrive\Documentos\Sesion13\Burbuja\Burbuja\obj\Debug\Burbuja.Form1.resources
